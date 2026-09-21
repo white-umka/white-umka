@@ -1,11 +1,11 @@
-#About me
+# About me
 16 y.o. • Low-level & Embedded
 Building new things with technology.
 
 
 
 
-#🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 ### Main languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
