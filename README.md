@@ -1,5 +1,5 @@
 # About me
-16 y.o. • Low-level & Embedded
+16 y.o. Low-level & Embedded
 Building new things with technology.
 
 
